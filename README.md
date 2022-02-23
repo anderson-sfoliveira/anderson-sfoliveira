@@ -3,7 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-sfoliveira/)](https://www.linkedin.com/in/anderson-sfoliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-anderson.sfoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.sfoliveira@gmail.com)](mailto:anderson.sfoliveira@gmail.com)
 
-Sou analista de sistemas, trabalho com desenvolvimento de software, atualmente com ênfase em Angular (TypeScript), Spring Boot (Java) e container Docker.
+<br/>Meu nome é Anderson, sou analista de sistemas e trabalho com desenvolvimento de software.
+
+<br/>👨‍🎓 Bacharel em Ciência da Computação
+<br/>📚 Atualmente estou aprendendo mais sobre Spring Boot, Angular/TypeScript, Docker e Cloud.
 
 ## 🚀 Minhas Skills
 
