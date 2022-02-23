@@ -1,22 +1,7 @@
-<!--
-### Hi there 👋
+## 👋 Olá seja bem-vindo ao meu GitHub
 
-**anderson-sfoliveira/anderson-sfoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## Olá seja bem-vindo ao meu GitHub 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-sfoliveira/)](https://www.linkedin.com/in/anderson-sfoliveira/)
+[![Gmail Badge](https://img.shields.io/badge/-anderson.sfoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.sfoliveira@gmail.com)](mailto:anderson.sfoliveira@gmail.com)
 
 Sou analista de sistemas, trabalho com desenvolvimento de software, atualmente com ênfase em Angular (TypeScript), Spring Boot (Java) e container Docker.
 
@@ -51,3 +36,5 @@ Sou analista de sistemas, trabalho com desenvolvimento de software, atualmente c
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+[![card](https://github-readme-stats.vercel.app/api?username=anderson-sfoliveira&theme=default&show_icons=true)](https://github.com/anderson-sfoliveira/)
+[![anderson-sfoliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-sfoliveira&hide=html&layout=compact=true&theme=default)](https://github.com/anderson-sfoliveira/)
