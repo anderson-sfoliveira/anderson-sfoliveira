@@ -35,6 +35,5 @@ Sou analista de sistemas, trabalho com desenvolvimento de software, atualmente c
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
 [![card](https://github-readme-stats.vercel.app/api?username=anderson-sfoliveira&theme=default&show_icons=true)](https://github.com/anderson-sfoliveira/)
 [![anderson-sfoliveira](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-sfoliveira&hide=html&layout=compact=true&theme=default)](https://github.com/anderson-sfoliveira/)
