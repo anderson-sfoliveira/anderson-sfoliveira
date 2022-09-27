@@ -3,10 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-sfoliveira/)](https://www.linkedin.com/in/anderson-sfoliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-anderson.sfoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anderson.sfoliveira@gmail.com)](mailto:anderson.sfoliveira@gmail.com)
 
-<br/>Meu nome é Anderson, sou analista de sistemas e trabalho com desenvolvimento de software.
+<br/>Meu nome é Anderson Oliveira, sou analista de sistemas e trabalho como desenvolvedor full stack com Java/Spring Boot e Typescript/Angular.
 
 <br/>👨‍🎓 Bacharel em Ciência da Computação
-<br/>📚 Atualmente estou aprendendo mais sobre Spring Boot, Angular/TypeScript, Docker e Cloud.
+<br/>📚 Sempre buscando mais conhecimentos sobre as tecnologias atuais.
 
 ## 🚀 Minhas Skills
 
